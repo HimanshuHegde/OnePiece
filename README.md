@@ -1,0 +1,1 @@
+🗺️ One Piece Explorer — A fan-made web app to explore characters, crews, and locations from the One Piece universe! Built with Next.js and powered by the One Piece API. Dive into the Grand Line with an interactive, responsive UI and fast navigation.
